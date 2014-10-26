@@ -1,3 +1,5 @@
+## Database Structure
+
 1. User - Devise
 
 * email:string
